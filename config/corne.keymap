@@ -43,7 +43,7 @@
         U_NA            U_NA            U_NA            U_NA            U_NA            U_NA                            &kp J           &kp L           &kp U           &kp Y           &kp SQT         U_NA
         U_NA            U_NA            U_NA            U_NA            U_NA            U_NA                            &kp M           &mt RSHFT N     &mt RCTRL E     &mt RALT I      &kp O           U_NA
         U_NA            U_NA            U_NA            U_NA            U_NA            U_NA                            &kp K           &kp H           &kp COMMA       &kp PERIOD      &kp FSLH        U_NA
-        U_NA            U_NA            U_NA            &mo MEDIA ESC   &mo NAV TAB     &mo MOUSE SPACE                 &mo SYM RET     &mo NUM BSPC    &mo FUN DEL     U_NA            U_NA            U_NA 
+        U_NA            U_NA            U_NA            U_NA            U_NA            U_NA                            &mo SYM RET     &mo NUM BSPC    &mo FUN DEL     U_NA            U_NA            U_NA 
                         >;
                 };
         };
