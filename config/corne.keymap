@@ -20,17 +20,17 @@
 #define U_NA &none
 
 #define BASE    0
-// #define MEDIA   1
-// #define NAV     2
-// #define MOUSE   3
-// #define SYM     4
-// #define NUM     5
-// #define FUN     6
+#define MEDIA   1
+#define NAV     2
+#define MOUSE   3
+#define SYM     4
+#define NUM     5
+#define FUN     6
 
 // Duration of hold for mod tap
-// &mt {
-//     tapping-term-ms = <200>;
-// };
+&mt {
+    tapping-term-ms = <200>;
+};
 
 
 / {
