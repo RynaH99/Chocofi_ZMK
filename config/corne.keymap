@@ -20,17 +20,17 @@
 #define U_NA &none
 
 #define BASE    0
-#define MEDIA   1
-#define NAV     2
-#define MOUSE   3
-#define SYM     4
-#define NUM     5
-#define FUN     6
+// #define MEDIA   1
+// #define NAV     2
+// #define MOUSE   3
+// #define SYM     4
+// #define NUM     5
+// #define FUN     6
 
 // Duration of hold for mod tap
-&mt {
-    tapping-term-ms = <200>;
-};
+// &mt {
+//     tapping-term-ms = <200>;
+// };
 
 
 / {
@@ -39,15 +39,12 @@
 
                 base_layer {
                         bindings = <
-
 //      LRNA            LR1             LR2             LR3             LR4             LR5                             RR5             RR4             RR3             RR2             RR1             RRNA
-//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
         U_NA            &kp Q           &kp W           &kp F           &kp P           &kp B                           &kp J           &kp L           &kp U           &kp Y           &kp SQT         U_NA
         U_NA            &kp A           &mt LALT R      &mt LCTRL S     &mt LSHFT T     &kp G                           &kp M           &mt RSHFT N     &mt RCTRL E     &mt RALT I      &kp O           U_NA
         U_NA            &mt LGUI Z      &kp X           &kp C           &kp D           &kp V                           &kp K           &kp H           &kp COMMA       &kp PERIOD      &kp FSLH        U_NA
         U_NA            U_NA            U_NA            &mo MEDIA ESC   &mo NAV TAB     &mo MOUSE SPACE                 &mo SYM RET     &mo NUM BSPC    &mo FUN DEL     U_NA            U_NA            U_NA 
                         >;
                 };
-
         };
 };
