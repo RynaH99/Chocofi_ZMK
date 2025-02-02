@@ -78,10 +78,10 @@
                         bindings = <
 //      LRNA            LR1             LR2             LR3             LR4             LR5                             RR5             RR4             RR3             RR2             RR1             RRNA
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-        U_NA            U_NA            U_NA            &mmv MOVE_UP    U_NA            U_NA                            U_NA            U_NA            U_NA            U_NA            U_NA            U_NA
+        U_NA            U_NA            U_NA            &mmv MOVE_UP    U_NA            U_NA                            U_NA            U_NA            &msc SCRL_UP    U_NA            U_NA            U_NA
         U_NA            &kp LGUI        &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT U_NA                            &mkp MB4        &msc SCRL_LEFT  &msc SCRL_DOWN  &msc SCRL_RIGHT U_NA            U_NA
         U_NA            U_NA            U_NA            U_NA            U_NA            U_NA                            &mkp MB5        U_NA            U_NA            U_NA            U_NA            U_NA
-        U_NA            U_NA            U_NA            U_NA            U_NA            U_NA                            &mkp LCLK       &mkp MCLK       &mkp RCLK       U_NA            U_NA            U_NA
+        U_NA            U_NA            U_NA            U_NA            U_NA            U_NA                            &mkp MB1        &mkp MB2        &mkp MB3        U_NA            U_NA            U_NA
                         >;
                 };
 
