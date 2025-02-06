@@ -91,7 +91,7 @@
                         bindings = <
 //      LRNA            LR1             LR2             LR3             LR4             LR5                             RR5             RR4             RR3             RR2             RR1             RRNA
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-        U_NA            &kp LBRC        &kp AMPS        &kp STAR        &kp LBKT        &kp RBKT                        U_NA            U_NA            U_NA            U_NA            U_NA            U_NA
+        U_NA            &kp LBKT        &kp AMPS        &kp STAR        &kp LBRC        &kp RBKT                        U_NA            U_NA            U_NA            U_NA            U_NA            U_NA
         U_NA            &kp COLON       &kp DLLR        &kp PRCNT       &kp MINUS       &kp EQUAL                       U_NA            &kp RSHFT       &kp RCTRL       &kp RALT        &kp LGUI        U_NA
         U_NA            &kp TILDE       &kp EXCL        &kp AT          &kp HASH        &kp PIPE                        U_NA            U_NA            U_NA            U_NA            U_NA            U_NA
                                                         &kp LPAR        &kp RPAR        &kp UNDER                       U_NA            U_NA            U_NA
