@@ -44,7 +44,8 @@
     },
     "W\nF7\n&\n7",
     {
-      "x": 1
+      "x": 1,
+      "t": "#000000\n#ff0000\n\n#4800ff"
     },
     "P\nF9\n\n9",
     {
@@ -66,7 +67,7 @@
     {
       "x": 3
     },
-    "B\nPscrn\n}\n]",
+    "B\n<i class='mss mss-Unicode-PrintScreen-3'></i>\n}\n]",
     {
       "x": 1.25,
       "t": "#000000\n\n\n#00f9ff"
@@ -75,7 +76,7 @@
     {
       "x": 3
     },
-    "'\n\n\nEnd"
+    "'\n\n\nEnd\n\n\n\n\n\""
   ],
   [
     {
@@ -181,7 +182,8 @@
     },
     "M\n<i class='fa fa-volume-down'></i>\n\nCaps",
     {
-      "x": 3
+      "x": 3,
+      "t": "#000000"
     },
     "O\n\n\n\nWIN"
   ],
@@ -195,7 +197,7 @@
     "C\nF2\n@\n2",
     {
       "x": 5.25,
-      "t": "#000000\n#b400ff\n\n#00f9ff\n\n\n\n#00f9ff",
+      "t": "#000000\n#b400ff\n\n\n\n\n\n#00f9ff",
       "fa": [
         0,
         0,
@@ -207,7 +209,7 @@
         2
       ]
     },
-    ",\nBT_1\n\n\n\n\n\nPste"
+    ",\nBT_1\n\n\n\n\n\nPste\n<"
   ],
   [
     {
@@ -224,13 +226,13 @@
     "D\nF3\n#\n3",
     {
       "x": 3.25,
-      "t": "#000000\n#b400ff\n\n#00f9ff\n\n\n\n#00f9ff"
+      "t": "#000000\n#b400ff\n\n\n\n\n\n#00f9ff"
     },
     "H\nBT_0\n\n\n\n\n\nCopy",
     {
       "x": 1
     },
-    ".\nBT_2\n\n\n\n\n\nCut"
+    ".\nBT_2\n\n\n\n\n\nCut\n>"
   ],
   [
     {
@@ -246,7 +248,7 @@
     "V\nPBrk\n|\n\\",
     {
       "x": 1.25,
-      "t": "#000000\n#b400ff\n\n#00f9ff\n\n\n\n#00f9ff",
+      "t": "#000000\n#b400ff\n\n\n\n\n\n#00f9ff",
       "fa": [
         0,
         2,
@@ -272,7 +274,7 @@
         2
       ]
     },
-    "/\nBT_3\n\n\n\n\n\nUndo"
+    "/\nBT_3\n\n\n\n\n\nUndo\n?"
   ],
   [
     {
@@ -282,28 +284,28 @@
       "t": "#000000\n#ff0000\n#00ff9a\n#4800ff\n#b400ff",
       "f": 3
     },
-    "ESC\nESC\n(\n.\nMEDIA"
+    "Esc\nEsc\n(\n.\nMEDIA"
   ],
   [
     {
       "r": 15,
       "y": -1.5,
       "x": 4,
-      "t": "#000000\n#ff0000\n#00ff9a\n#4800ff\n#00f9ff\n\n\n\n\n\n#00ff9a",
+      "t": "#000000\n#ff0000\n#00ff9a\n#4800ff\n#00f9ff",
       "f": 3
     },
-    "TAB\nTAB\n)\n0\nNAV"
+    "<i class='kb kb-Tab-2'></i>\n<i class='kb kb-Tab-2'></i>\n)\n0\nNAV"
   ],
   [
     {
       "r": 30,
       "y": -2.75,
       "x": 5.75,
-      "t": "#000000\n#ff0000\n#00ff9a\n#4800ff\n#fffb00\n\n\n\n\n\n#00ff9a",
+      "t": "#000000\n#ff0000\n#00ff9a\n#4800ff\n#fffb00",
       "f": 3,
       "h": 1.5
     },
-    "SPC\nSPC\n_\n-\nMOUSE"
+    "Spc\nSpc\n_\n-\nMOUSE"
   ],
   [
     {
@@ -313,13 +315,13 @@
       "t": "#000000\n#b400ff\n\n#fffb00\n#00ff9a",
       "fa": [
         0,
-        1,
+        4,
         0,
         2
       ],
       "h": 1.5
     },
-    "RET\n<i class='fa fa-stop'></i>\n\nMB1\nSYM"
+    "<i class='kb kb-Return-2'></i>\n<i class='kb kb-Multimedia-Stop'></i>\n\nMB1\nSYM"
   ],
   [
     {
@@ -328,21 +330,15 @@
       "x": 6.15,
       "t": "#000000\n#b400ff\n\n#fffb00\n#4800ff"
     },
-    "BSPC\n<i class='fa fa-pause'></i> <i class='fa fa-play'></i>\n\nMB2\nNUM"
+    "<i class='mss mss-Unicode-BackSpace-DeleteLeft-Big-2'></i>\n<i class='kb kb-Multimedia-Play-Pause'></i>\n\nMB2\nNUM"
   ],
   [
     {
       "r": -6,
       "y": -2.0999999999999996,
       "x": 8.1,
-      "t": "#000000\n#b400ff\n\n#fffb00\n#ff0000",
-      "fa": [
-        0,
-        4,
-        0,
-        2
-      ]
+      "t": "#000000\n#b400ff\n\n#fffb00\n#ff0000"
     },
-    "DEL\n<i class='fa fa-volume-off'></i>\n\nMB3\nFUN"
+    "<i class='mss mss-Unicode-DeleteRight-Big-2'></i>\n<i class='kb kb-Multimedia-Mute-1'></i>\n\nMB3\nFUN"
   ]
 ]
