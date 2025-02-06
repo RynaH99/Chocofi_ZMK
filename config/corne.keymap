@@ -49,8 +49,8 @@
 //      LRNA            LR1             LR2             LR3             LR4             LR5                             RR5             RR4             RR3             RR2             RR1             RRNA
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
         U_NA            &kp Q           &kp W           &kp F           &kp P           &kp B                           &kp J           &kp L           &kp U           &kp Y           &kp SQT         U_NA
-        U_NA            &kp A           &mt LALT R      &mt LCTRL S     &mt LSHFT T     &kp G                           &kp M           &mt RSHFT N     &mt RCTRL E     &mt RALT I      &kp O           U_NA
-        U_NA            &mt LGUI Z      &kp X           &kp C           &kp D           &kp V                           &kp K           &kp H           &kp COMMA       &kp PERIOD      &kp FSLH        U_NA
+        U_NA            &mt LGUI A      &mt LALT R      &mt LCTRL S     &mt LSHFT T     &kp G                           &kp M           &mt RSHFT N     &mt RCTRL E     &mt RALT I      &mt LGUI O      U_NA
+        U_NA            &kp Z           &kp X           &kp C           &kp D           &kp V                           &kp K           &kp H           &kp COMMA       &kp PERIOD      &kp FSLH        U_NA
                                                         &lt MEDIA ESC   &lt NAV TAB     &lt MOUSE SPACE                 &lt SYM RET     &lt NUM BSPC    &lt FUN DEL
                         >;
                 };
@@ -69,9 +69,9 @@
                         bindings = <
 //      LRNA            LR1             LR2             LR3             LR4             LR5                             RR5             RR4             RR3             RR2             RR1             RRNA
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-        U_NA            U_NA            U_NA            &mmv MOVE_UP    U_NA            U_NA                            &kp LC(Z)       &kp LC(V)       &kp LC(C)       &kp LC(X)       &kp LC(Y)       U_NA
-        U_NA            &kp LGUI        &kp LALT        &kp LCTRL       &kp LSHFT       U_NA                            &kp CAPS        &kp LEFT        &kp DOWN        &kp UP          &kp RIGHT       U_NA
-        U_NA            U_NA            U_NA            U_NA            U_NA            U_NA                            &kp INS         &kp HOME        &kp PG_UP       &kp PG_DN       &kp END         U_NA
+        U_NA            U_NA            U_NA            &mmv MOVE_UP    U_NA            U_NA                            &kp PG_UP       &kp PG_DN       &kp UP          &kp HOME        &kp END        U_NA
+        U_NA            &kp LGUI        &kp LALT        &kp LCTRL       &kp LSHFT       U_NA                            &kp CAPS        &kp LEFT        &kp DOWN        &kp RIGHT       &kp            U_NA
+        U_NA            U_NA            U_NA            U_NA            U_NA            U_NA                            &kp INS         &kp LC(C)       &kp LC(V)       &kp LC(x)       &kp LC(Z)      U_NA
                                                         U_NA            U_NA            U_NA                            &kp RET         &kp BSPC        &kp DEL
                         >;
                 };
@@ -116,7 +116,7 @@
         U_NA            &kp F12         &kp F7          &kp F8          &kp F9          &kp PSCRN                       U_NA            U_NA            U_NA            U_NA            U_NA            U_NA
         U_NA            &kp F11         &kp F4          &kp F5          &kp F6          &kp SLCK                        U_NA            &kp RSHFT       &kp RCTRL       &kp RALT        &kp LGUI        U_NA
         U_NA            &kp F10         &kp F1          &kp F2          &kp F3          &kp PAUSE_BREAK                 U_NA            U_NA            U_NA            U_NA            U_NA            U_NA
-                                                        &kp DOT         &kp TAB         &kp SPACE                       U_NA            U_NA            U_NA
+                                                        &kp ESC         &kp TAB         &kp SPACE                       U_NA            U_NA            U_NA
                         >;
                 };
         };
