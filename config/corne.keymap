@@ -70,7 +70,7 @@
 //      LRNA            LR1             LR2             LR3             LR4             LR5                             RR5             RR4             RR3             RR2             RR1             RRNA
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
         U_NA            U_NA            U_NA            &mmv MOVE_UP    U_NA            U_NA                            &kp PG_UP       &kp PG_DN       &kp UP          &kp HOME        &kp END        U_NA
-        U_NA            &kp LGUI        &kp LALT        &kp LCTRL       &kp LSHFT       U_NA                            &kp CAPS        &kp LEFT        &kp DOWN        &kp RIGHT       &kp            U_NA
+        U_NA            &kp LGUI        &kp LALT        &kp LCTRL       &kp LSHFT       U_NA                            &kp CAPS        &kp LEFT        &kp DOWN        &kp RIGHT       U_NA           U_NA
         U_NA            U_NA            U_NA            U_NA            U_NA            U_NA                            &kp INS         &kp LC(C)       &kp LC(V)       &kp LC(x)       &kp LC(Z)      U_NA
                                                         U_NA            U_NA            U_NA                            &kp RET         &kp BSPC        &kp DEL
                         >;
